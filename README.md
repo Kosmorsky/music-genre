@@ -1,3 +1,21 @@
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/github_username/repo_name">
+    <img src="images/cybersecurity.png" alt="Logo" width="250" height="250">
+  </a>
+
+  <h1 align="center">Predicting Song Genre</h1>
+
+  <p align="center">
+    UUsing supervised learning to predict song genre at up to 99% accuracy with musical attributes fetched from Spotify’s API along with supporting data from MusicBrainz.
+    <br />
+    <br />
+    <a href="https://careerkarma.com/discussions/projects/predicting-song-genre-776">View on Career Karma</a>
+    <br />
+  </p>
+</p>
+
 # Predicting Song Genre
 Using supervised learning to predict song genre at up to 99% accuracy with musical attributes fetched from Spotify’s API along with supporting data from MusicBrainz.
 
@@ -13,6 +31,3 @@ https://docs.google.com/presentation/d/1XI-0isLaXTFsDi8hp2HQ-zGmeoycuTTJbBLY7Q_i
 
 ## Notebook
 https://colab.research.google.com/drive/1k6DDeSRRQ9uzzQGiax9NO0J9aEJLOT-s?usp=sharing
-
-## Check it out on Career Karma!
-https://careerkarma.com/discussions/projects/predicting-song-genre-776
