@@ -8,7 +8,7 @@
   <h1 align="center">Predicting Song Genre</h1>
 
   <p align="center">
-    UUsing supervised learning to predict song genre at up to 99% accuracy with musical attributes fetched from Spotify’s API along with supporting data from MusicBrainz.
+    Using supervised learning to predict song genre at up to 99% accuracy with musical attributes fetched from Spotify’s API along with supporting data from MusicBrainz.
     <br />
     <br />
     <a href="https://careerkarma.com/discussions/projects/predicting-song-genre-776">View on Career Karma</a>
