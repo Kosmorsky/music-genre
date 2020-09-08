@@ -16,9 +16,6 @@
   </p>
 </p>
 
-# Predicting Song Genre
-Using supervised learning to predict song genre at up to 99% accuracy with musical attributes fetched from Spotify’s API along with supporting data from MusicBrainz.
-
 ## Note
 This was my first machine learning project. In it, I fetched a bunch of songs and their musical features from Spotify's API and used that data to predict the songs' genre.
 
