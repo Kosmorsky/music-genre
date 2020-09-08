@@ -14,5 +14,5 @@ https://docs.google.com/presentation/d/1XI-0isLaXTFsDi8hp2HQ-zGmeoycuTTJbBLY7Q_i
 ## Notebook
 https://colab.research.google.com/drive/1k6DDeSRRQ9uzzQGiax9NO0J9aEJLOT-s?usp=sharing
 
-### Check it out on Career Karma!
+## Check it out on Career Karma!
 https://careerkarma.com/discussions/projects/predicting-song-genre-776
